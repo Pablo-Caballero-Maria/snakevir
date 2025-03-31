@@ -4,6 +4,7 @@ channels:
   - bioconda
   - defaults
 dependencies:
+  - libxcrypt=4.4.36
   - bioawk=1.0
   - biopython=1.78
   - blast=2.11.0
